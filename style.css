@@ -1,0 +1,39 @@
+#style.css
+li{
+    color: green;
+    padding-left: 50px;
+    }
+
+    #protocolo{background-color: indigo;}
+
+    .title{
+        background-color: indianred;
+    }
+    .subtitle{
+        color: white;
+    }
+    
+#mainbox{
+        border: 5px solid black;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        align-items: center;
+
+    }
+.caja1 {
+    width: 100px;
+    height: 100px;
+    background-color: lightsalmon;
+}
+.caja2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.caja3 {
+    width: 100px;
+    height: 100px;
+    background-color: mediumpurple;
+}
